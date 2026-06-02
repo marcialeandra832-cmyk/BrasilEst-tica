@@ -1,0 +1,6 @@
+{
+  "name": "Seleção da Beleza na Copa",
+  "description": "Landing Page de luxo para clínica de estética com o tema Seleção da Beleza na Copa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
